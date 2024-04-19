@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portf/static/css/main.b807fd9f.css",
+    "main.js": "/portf/static/js/main.92595c3a.js",
+    "static/media/js-transformed.png": "/portf/static/media/js-transformed.5be96018b250fade9c91.png",
+    "static/media/cpp-transformed.png": "/portf/static/media/cpp-transformed.d80f3abd0d9464fb9cbc.png",
+    "static/media/textanalyzer.png": "/portf/static/media/textanalyzer.9ea4b0ba3364014c9196.png",
+    "static/media/heroImage..jpg": "/portf/static/media/heroImage..5bbc53e4fbb77dd4f67a.jpg",
+    "static/media/express-transformed.png": "/portf/static/media/express-transformed.4a162e682bb1a5c435c8.png",
+    "static/media/python-transformed.png": "/portf/static/media/python-transformed.552ab1af1ba7df227e1c.png",
+    "static/media/css-transformed.png": "/portf/static/media/css-transformed.ae604d60812d58bf17bb.png",
+    "static/media/html-pa0o4aqEw-transformed.png": "/portf/static/media/html-pa0o4aqEw-transformed.31707cfee56e174426e0.png",
+    "static/media/gifgen.jpg": "/portf/static/media/gifgen.9fa04c3795bd58a89ee4.jpg",
+    "static/media/sql-transformed.png": "/portf/static/media/sql-transformed.01eb02a2ae9bbbed6e54.png",
+    "static/media/mongodb-transformed.png": "/portf/static/media/mongodb-transformed.ec5f2ed8fffde98446b6.png",
+    "static/media/php-transformed.png": "/portf/static/media/php-transformed.6f85b0770f36e21fa3ba.png",
+    "static/media/bootstaps.png": "/portf/static/media/bootstaps.dfb12118f2811a9b3e9f.png",
+    "static/media/postman-transformed.png": "/portf/static/media/postman-transformed.94ca7f6429af6962fa4f.png",
+    "static/media/react-transformed.png": "/portf/static/media/react-transformed.66a1032ec52d78cb77b5.png",
+    "static/media/Image..jpg": "/portf/static/media/Image..c7d5c0e6611794bba311.jpg",
+    "static/media/node-transformed.png": "/portf/static/media/node-transformed.a36fd83cbc732acf1f32.png",
+    "static/media/taiwind-transformed.png": "/portf/static/media/taiwind-transformed.c872d7227f769344819e.png",
+    "static/media/github-transformed.png": "/portf/static/media/github-transformed.63f310fc5a0aba1cbd51.png",
+    "index.html": "/portf/index.html",
+    "main.b807fd9f.css.map": "/portf/static/css/main.b807fd9f.css.map",
+    "main.92595c3a.js.map": "/portf/static/js/main.92595c3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b807fd9f.css",
+    "static/js/main.92595c3a.js"
+  ]
+}
