@@ -1,0 +1,30 @@
+
+function piResponse() {
+		piSetCookie('visitor_id903371', '839488155', 3650);
+			piSetCookie('visitor_id903371-hash', 'fc31e7f303b3ef76445538d69b315882fedbce51681194f133525c2a1ef98ca05ddef77e99144fd675bb2d1a15c94276e0737e79', 3650);
+		
+		if (document.location.protocol != "https:" || (document.location.protocol == "https:" && true)) {
+		var analytics_link = document.location.protocol + "//" + "go.canva.com/analytics?";
+		pi.tracker.visitor_id='839488155';
+
+				pi.tracker.visitor_id_sign='fc31e7f303b3ef76445538d69b315882fedbce51681194f133525c2a1ef98ca05ddef77e99144fd675bb2d1a15c94276e0737e79';
+		
+				pi.tracker.campaign_id='6932';
+		
+		var variables = 'conly=true';
+		for (property in pi.tracker) {
+					variables += "&" + property + "=" + pi.tracker[property];
+				}
+		var headID = document.getElementsByTagName("head")[0];
+		piScriptObj[piScriptNum] = document.createElement('script');
+		piScriptObj[piScriptNum].type = 'text/javascript';
+		piScriptObj[piScriptNum].src = analytics_link + variables;
+		headID.appendChild(piScriptObj[piScriptNum]);
+		piScriptObj[piScriptNum].onload = function() { return; }
+	}
+	}
+piResponse();
+
+
+
+
